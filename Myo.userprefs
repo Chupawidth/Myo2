@@ -1,0 +1,17 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{1130D69E-D4DD-7956-99D5-7DE616360C93}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Myo Samples/Scripts/VehicleOrientation.cs">
+    <Files>
+      <File FileName="Assets/RACER/Scripts/playerCarControl.cs" Line="202" Column="41" />
+      <File FileName="Assets/Myo Samples/Scripts/VehicleOrientation.cs" Line="67" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/workstation8/Dropbox/work/Proof of concept/Myo/Assets/RACER/Scripts/GamePlayController.cs" relfile="Assets/RACER/Scripts/GamePlayController.cs" line="160" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Myo PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

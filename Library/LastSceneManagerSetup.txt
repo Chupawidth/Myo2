@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RACER/Scene/cityGameplay.unity
+  isLoaded: 1
+  isActive: 1

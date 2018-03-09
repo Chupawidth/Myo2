@@ -1,0 +1,2 @@
+C:\AppServ\www\bossup\EpsonScanner\uploadImage\
+C:\AppServ\www\bossup\EpsonScanner\loaded\

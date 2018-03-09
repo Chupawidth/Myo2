@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: a21299eb2a978e94f8d3a3e8b99d9429
+timeCreated: 1461079975
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: uiShee_1t_0
+    21300002: uiShee_1t_1
+    21300004: uiShee_1t_2
+    21300006: uiShee_1t_3
+    21300008: uiSheet_nitrousbar
+    21300010: uiSheet_0
+    21300012: uiSheet_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: uiShee_1t_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 436
+        width: 264
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122, y: 21.5}
+        - {x: -122, y: 10.5}
+        - {x: -93, y: -31.5}
+        - {x: 51, y: -32.5}
+        - {x: 132, y: -32.5}
+        - {x: 132, y: 32.5}
+        - {x: 6, y: 32.5}
+        - {x: -121, y: 27.5}
+    - name: uiShee_1t_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 419
+        width: 239
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.5, y: 46.5}
+        - {x: -112.5, y: 46.5}
+        - {x: -119.5, y: 43.5}
+        - {x: -119.5, y: -46.5}
+        - {x: 119.5, y: -46.5}
+        - {x: 119.5, y: 43.5}
+    - name: uiShee_1t_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 345
+        width: 328
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline:
+      - - {x: -164, y: 28}
+        - {x: -164, y: 6}
+        - {x: -141, y: -37}
+        - {x: 164, y: -37}
+        - {x: 164, y: 27}
+        - {x: 161, y: 28}
+      - - {x: 97, y: 37}
+        - {x: 97, y: 33}
+        - {x: 112, y: 28}
+        - {x: 164, y: 28}
+        - {x: 164, y: 37}
+    - name: uiShee_1t_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 236
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 77}
+        - {x: 116, y: 80}
+        - {x: 112, y: 85}
+        - {x: 107, y: 87}
+        - {x: -109, y: 87}
+        - {x: -112, y: 86}
+        - {x: -118, y: 81}
+        - {x: -118, y: -81}
+        - {x: -112, y: -86}
+        - {x: -110, y: -86}
+        - {x: -109, y: -87}
+        - {x: 107, y: -87}
+        - {x: 112, y: -85}
+        - {x: 115, y: -82}
+        - {x: 117, y: -77}
+    - name: uiSheet_nitrousbar
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 80
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 198}
+        - {x: -23, y: 193}
+        - {x: -32, y: 176}
+        - {x: -32, y: -183}
+        - {x: -17, y: -201}
+        - {x: 24, y: -201}
+        - {x: 40, y: -187}
+        - {x: 40, y: 180}
+        - {x: 27, y: 198}
+      - - {x: -40, y: 207}
+        - {x: -40, y: 203}
+        - {x: 27, y: 203}
+        - {x: 28, y: 206}
+        - {x: 28, y: 207}
+    - name: uiSheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 13
+        width: 326
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145, y: 37.5}
+        - {x: -145, y: 13.5}
+        - {x: -135, y: -29.5}
+        - {x: 124, y: -29.5}
+        - {x: 145, y: 29.5}
+        - {x: 145, y: 37.5}
+    - name: uiSheet_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 107
+        width: 213
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 0, z: 29, w: 0}
+      outline:
+      - - {x: -93.5, y: 23.5}
+        - {x: -103.5, y: 22.5}
+        - {x: -103.5, y: -19.5}
+        - {x: -102.5, y: -20.5}
+        - {x: 90.5, y: -20.5}
+        - {x: 95.5, y: -18.5}
+        - {x: 106.5, y: -15.5}
+        - {x: 106.5, y: 23.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
